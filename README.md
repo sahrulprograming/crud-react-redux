@@ -17,7 +17,7 @@ npm i
 kemudian install terlebih dahulu json-server secara global dengan cara
 
 ```sh
-npm i json-server
+npm i -g json-server
 ```
 
 lanjut jalankan json-server dengan cara
